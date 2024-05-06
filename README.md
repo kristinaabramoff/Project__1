@@ -11,4 +11,4 @@ Reference links:
 
 # Conclusion
 
-In conclusion, economic factors significantly influence national well-being, with higher GDP per capita correlating moderately with higher happiness scores. There's potential correlation between unemployment rate and happiness, while a positive link exists between predicted life expectancy and happiness. Nordic countries consistently lead in happiness, followed by Western Europe and North America. The COVID-19 pandemic didn't significantly alter global happiness scores, though China appeared to score a higher happiness score after COVID-19. 
+In conclusion, economic factors significantly influence national well-being, with higher GDP per capita correlating moderately with higher happiness scores. There's potential correlation between unemployment rate and happiness, while a positive link exists between predicted life expectancy and happiness. Oceania had the highest median happiness score compared to the other continents. The COVID-19 pandemic didn't significantly alter global happiness scores, though China appeared to score a higher happiness score after COVID-19. 
