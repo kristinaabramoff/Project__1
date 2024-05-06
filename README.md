@@ -8,3 +8,7 @@ Reference links:
 2022csv:https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022
 2023csv:https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023
 2024csv:https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2024
+
+# Conclusion
+
+In conclusion, economic factors significantly influence national well-being, with higher GDP per capita correlating moderately with higher happiness scores. There's potential correlation between unemployment rate and happiness, while a positive link exists between predicted life expectancy and happiness. Nordic countries consistently lead in happiness, followed by Western Europe and North America. The COVID-19 pandemic didn't significantly alter global happiness scores, though China appeared to score a higher happiness score after COVID-19. 
